@@ -1,0 +1,58 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AliasFunctionsUsageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CallableParameterUseCaseInTypeContextInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ClassMethodNameMatchesFieldNameInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="ClassOverridesFieldOfSuperClassInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DefaultValueInElseBranchInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="DegradedSwitchInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="DisconnectedForeachInstructionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ExceptionsAnnotatingAndHandlingInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ForeachInvariantsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="IfConditionalsWithoutCurvyBracketsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="IfReturnReturnSimplificationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="LongInheritanceChainInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="LoopWhichDoesNotLoopInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MoreThanThreeArgumentsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="NestedNotOperatorsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="NestedPositiveIfStatementsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="NestedTernaryOperatorInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="NotOptimalIfConditionsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="NullCoalescingOperatorCanBeUsedInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="OneTimeUseVariablesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ParameterByRefWithDefaultInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PdoApiUsageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpAbstractStaticMethodInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpDynamicAsStaticMethodCallInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpIncludeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpMissingDocCommentInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Project Files" level="WARNING" enabled="true" />
+      <option name="CHECK_CONSTANT" value="true" />
+      <option name="CHECK_FIELD" value="true" />
+      <option name="CHECK_CLASS_CONSTANT" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PhpUnreachableStatementInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpUnusedAliasInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpUnusedLocalVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpUnusedParameterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpUnusedPrivateFieldInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpUnusedPrivateMethodInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpWrongCatchClausesOrderInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PrefixedIncDecrementEquivalentInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PrivateConstructorSemanticsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PropertyCanBeStaticInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RandomApiMigrationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SenselessProxyMethodInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SingletonFactoryPatternViolationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="StaticInvocationViaThisInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="TernaryOperatorSimplifyInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="ThrowRawExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="UnNecessaryDoubleQuotesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="UnSafeIsSetOverArrayInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="UnnecessaryParenthesesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="UnnecessarySemicolonInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="UnnecessaryUseAliasInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="UselessReturnInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  </profile>
+</component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e73fc820-7dc2-4369-bad5-fbe98c77eb23" name="placity-media" url="http://143.93.91.92/media-server">
+        <fileTransfer host="143.93.91.92" port="22" rootFolder="/opt/pc4-media-server" accessType="SFTP" password="dffcdfebdffadffadff9" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="c7844a5e-f091-4a0f-b957-16a36f8ca56e" name="local" url="http://local/mediaencoder">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</project>
