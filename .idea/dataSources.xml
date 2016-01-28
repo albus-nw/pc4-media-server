@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2695972967">
+    <data-source source="LOCAL" name="PostgreSQL - placity@143.93.91.92" uuid="ab109ad7-a3ab-4328-a51f-0e8c1d74862a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://143.93.91.92:5432/placity</jdbc-url>
+    </data-source>
+  </component>
+</project>
